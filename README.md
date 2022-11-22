@@ -3,9 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0F00F7&center=true&vCenter=true&width=440&height=60&lines=Welcome+To+Amir+Ghanem+Github)](https://git.io/typing-svg)
 
 
-
-![My Skills](https://skillicons.dev/icons?i=java,python,aws,docker,c,cs,nginx,php,stackoverflow,mysql,mongodb,vscode,visualstudio&theme=dark)
-![My Skills](https://skillicons.dev/icons?i=cloudflare,discord,eclipse,fastapi,flask,git,github,gitlab,linkedin,linux,netlify,wordpress&theme=dark)
+### Programming Languages
+![My Skills](https://skillicons.dev/icons?i=java,python,fastapi,flask,c,cs,php&theme=dark)
+### IDEs
+![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse&theme=dark)
+### Database Tools 
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)
+### Tools
+![My Skills](https://skillicons.dev/icons?i=aws,docker,nginx,stackoverflow,netlify,cloudflare,discord,git,github,gitlab,linkedin,wordpress&theme=dark)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AmirMGhanem?cardType=github&theme=react)](https://git.io/awesome-stats-card)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmirMGhanem&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
