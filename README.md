@@ -1,7 +1,11 @@
 ### Hi there 👋
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0F00F7&center=true&vCenter=true&width=440&height=60&lines=Welcome+To+Amir+Ghanem+Github)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,aws,docker,c,cs,nginx,php,stackoverflow,mysql,mongodb,vscode,visualstudio,cloudflare,discord,eclipse,fastapi,flask,git,github,gitlab,linkedin,linux,netlify&theme=dark)](https://skillicons.dev)
+
+
+![My Skills](https://skillicons.dev/icons?i=java,python,aws,docker,c,cs,nginx,php,stackoverflow,mysql,mongodb,vscode,visualstudio&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=cloudflare,discord,eclipse,fastapi,flask,git,github,gitlab,linkedin,linux,netlify,wordpress&theme=dark)
 
 
 
