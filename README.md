@@ -6,7 +6,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=java,python,aws,docker,c,cs,nginx,php,stackoverflow,mysql,mongodb,vscode,visualstudio&theme=dark)
 ![My Skills](https://skillicons.dev/icons?i=cloudflare,discord,eclipse,fastapi,flask,git,github,gitlab,linkedin,linux,netlify,wordpress&theme=dark)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirMGhanem&show_icons=true&theme=tokyonight)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmirMGhanem&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
