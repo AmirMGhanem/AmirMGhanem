@@ -13,9 +13,9 @@
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=aws,docker,nginx,stackoverflow,netlify,cloudflare,discord,git,github,gitlab,linkedin,wordpress&theme=dark)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AmirMGhanem?cardType=github&theme=react)](https://git.io/awesome-stats-card)
-[![GitHub Streak](https://streak-stats.demolab.com?user=AmirMGhanem&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmirMGhanem&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AmirMGhanem?cardType=github&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com?user=AmirMGhanem&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmirMGhanem&theme=react-dark)
 
 <!--
 **AmirMGhanem/AmirMGhanem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Snake animation](https://github.com/AmirMGhanem/AmirMGhanem/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/AmirMGhanem/AmirMGhanem/blob/output/github-contribution-grid-snake.svg)](https://github.com/AmirMGhanem)
