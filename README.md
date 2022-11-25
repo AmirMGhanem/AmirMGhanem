@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmirMGhanem&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
+![](https://komarev.com/ghpvc/?username=AmirMGhanem&color=brightgreen)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0F00F7&center=true&vCenter=true&width=440&height=60&lines=Welcome+To+Amir+Ghanem+Github)](https://git.io/typing-svg)
 
