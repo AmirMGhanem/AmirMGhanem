@@ -1,6 +1,8 @@
-### Hi there 👋
+###  👋
 
 ![](https://komarev.com/ghpvc/?username=AmirMGhanem&color=blue)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1500&pause=300&color=0C39F7&multiline=true&width=435&height=89&lines=Hi+It's+Amir+%F0%9F%91%8B%F0%9F%8F%BD%F0%9F%98%8A+;Welcome+To+My+Github)](https://git.io/typing-svg)
 
 
