@@ -1,24 +1,27 @@
-name: Generate Datas
+name: Generate Snake
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 11 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@main
 
-        id: snake-gif
+    steps:
+      - name: Checkout
+        uses: actions/checkout@main
+
+      - name: Generate
+        uses: Platane/snk@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - name: Commit 
+          outputs: |
+            ./assets/github-contribution-grid-snake.gif
+            ./assets/github-contribution-grid-snake.svg
+      
+      - name: Commit
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
