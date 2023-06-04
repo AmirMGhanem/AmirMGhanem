@@ -17,7 +17,7 @@
 ![My Skills](https://skillicons.dev/icons?i=aws,docker,nginx,stackoverflow,netlify,cloudflare,discord,git,github,gitlab,linkedin,wordpress&theme=dark)
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AmirMGhanem?cardType=github&theme=react)
 ![GitHub Streak](https://streak-stats.demolab.com?user=AmirMGhanem&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AmirMGhanem&theme=react-dark)
+
 
 ![](https://github.com/AmirMGhanem/AmirMGhanem/blob/main/dist/github-contribution-grid-snake.svg)
 
