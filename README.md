@@ -16,9 +16,10 @@
 ### Tools
 
 ![My Skills](https://skillicons.dev/icons?i=aws,docker,nginx,stackoverflow,netlify,cloudflare,discord,git,github,gitlab,linkedin,wordpress&theme=dark)
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AmirMGhanem?cardType=github&theme=react)
-![GitHub Streak](https://streak-stats.demolab.com?user=AmirMGhanem&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AmirMGhanem?cardType=github&theme=react)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AmirMGhanem&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ![](https://github.com/AmirMGhanem/AmirMGhanem/blob/output/github-contribution-grid-snake.svg)
 
