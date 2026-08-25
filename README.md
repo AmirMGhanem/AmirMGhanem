@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=400&color=0C39F7&multiline=true&width=500&height=89&lines=Hi%2C+I'm+Amir+%F0%9F%91%8B%F0%9F%8F%BD;Backend+Engineer+%7C+Python+%7C+GenAI)](https://git.io/typing-svg)
 
 Backend engineer focused on **Python services, data pipelines, and LLM-powered systems**.
-I build production APIs with FastAPI, design the data layer that sits behind them, and ship AI features that survive contact with real users — RAG pipelines, agentic workflows, and VLM document extraction.
+I build production APIs with FastAPI, design the data layer that sits behind them, and ship AI features that survive contact with real users — RAG pipelines, agentic workflows, and VLM document extraction and image generation.
 
 Currently building SaaS products and microSaas Globally 
 
