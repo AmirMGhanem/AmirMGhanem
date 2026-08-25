@@ -7,9 +7,9 @@
 Backend engineer focused on **Python services, data pipelines, and LLM-powered systems**.
 I build production APIs with FastAPI, design the data layer that sits behind them, and ship AI features that survive contact with real users — RAG pipelines, agentic workflows, and VLM document extraction.
 
-Currently building SaaS products for the Israeli market. Hebrew 🇮🇱 · Arabic · English.
+Currently building SaaS products and microSaas Globally 
 
----
+--- 
 
 ### Core
 
